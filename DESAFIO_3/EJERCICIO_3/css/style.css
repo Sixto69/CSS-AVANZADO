@@ -90,17 +90,14 @@ img{
    grid-template-columns: repeat(3, 1fr);
    grid-template-rows: repeat(2, 2fr);
    gap: 20px;
+   
  
 }
 .card{
    gap: 20px;
    padding: 20px;
    margin: 30px;
-   
 }
-
-
-
 
 
 
