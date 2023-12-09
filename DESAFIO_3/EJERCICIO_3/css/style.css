@@ -22,9 +22,8 @@ main {
 
 footer {
    grid-area: pie-de-pagina;
-   background: white;
    color: white;
-   padding: 5px;
+   padding: 10px;
  
 }
 p{
@@ -74,7 +73,7 @@ a{
 
 .fa-brands {
    font-size: 20px;
-   margin: 10;
+   margin: 10px;
 }
 .pagination{
    display: flex;
@@ -95,10 +94,9 @@ img{
  
 }
 .card{
-   
    gap: 20px;
    padding: 20px;
-   margin: 20px;
+   margin: 30px;
    
 }
 
