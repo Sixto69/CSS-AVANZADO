@@ -38,7 +38,6 @@ p{
 
 div {
    display: grid;
-   border: 1px solid black;
    grid-template-rows: 5fr 10fr 1fr;
    grid-template-areas:
    "menu"
