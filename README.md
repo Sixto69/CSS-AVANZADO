@@ -1,2 +1,2 @@
 # CSS-AVANZADO
-Se crea el desafio 2.
+Desafio @mediaquery
